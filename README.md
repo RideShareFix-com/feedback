@@ -14,7 +14,7 @@ This project aims to identify, document, and resolve glitches and bugs encounter
 
 ## Contirbute
 
-Submit an issue via the issue tracker
+[Submit an issue](https://github.com/RideShareFix-com/feedback/issues)
 
 https://github.com/RideShareFix-com/feedback/issues
 

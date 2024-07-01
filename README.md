@@ -1,7 +1,3 @@
-
-
-## Purpose
-
 This project aims to identify, document, and resolve glitches and bugs encountered by Uber drivers. By tracking these issues, we seek to improve the overall driver experience, enhance app reliability, and ensure accurate fare calculations. Our goal is to create a comprehensive repository of common problems and their solutions, fostering a community-driven approach to troubleshooting and enhancing Uber's operational efficiency.
 
 ## Features

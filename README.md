@@ -1,4 +1,4 @@
-![Rideshare Fix](logo.jpg)
+
 
 ## Purpose
 
@@ -11,6 +11,12 @@ This project aims to identify, document, and resolve glitches and bugs encounter
 - **Documentation**: Access detailed descriptions, screenshots, and steps to reproduce common problems.
 - **Solutions and Workarounds**: Find recommended solutions and workarounds for known issues.
 - **Community Support**: Engage with other Uber drivers and developers to share experiences and collaboratively address problems.
+
+## Contirbute
+
+Submit an issue via the issue tracker
+
+https://github.com/RideShareFix-com/feedback/issues
 
 ## Contact
 

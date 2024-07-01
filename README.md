@@ -1,4 +1,4 @@
-# Uber Glitches and Bug Tracking
+![Rideshare Fix](logo.jpg)
 
 ## Purpose
 
